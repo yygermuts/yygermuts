@@ -18,11 +18,12 @@
     <a href="https://www.linkedin.com/in/yuri-germuts-souza-368744b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-<span>
-<a href="https://github.com/yygermuts/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yygermuts&layout=compact&langs_count=8&card_width=300" />
+<div style="display: inline_block">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yygermuts&&theme=dark" />
 </a>
-<a href="https://github.com/yygermuts/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yygermuts&layout=compact&langs_count=8&card_width=300" />
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yygermuts&layout=compact&langs_count=8&card_width=320&&theme=dark" />
 </a>
-</span>
+</div>
