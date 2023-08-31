@@ -1,7 +1,7 @@
 <html>
    
    <body>
-<h2>Olá! Eu sou o Yuri Germuts!</h2>
+<h1>Olá! Eu sou o Yuri Germuts!</h1>
 
 <ul>
    <li> Estudando Desenvolvimento Front-End e Design de Games</li>
@@ -9,6 +9,9 @@
 </ul>
 
 <div>
+   <h2>DevLinks</h2>
+   <a href = "https://yygermuts.github.io/super-mario-jump/" target="_blank"> Clique Aqui!</a>
+   <h2>Jogos</h2>
    <h3>Super Mario Jump</h3>
    <a href = "https://yygermuts.github.io/super-mario-jump/" target="_blank"> Clique Aqui!</a>
    <br>
