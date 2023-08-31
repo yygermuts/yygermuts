@@ -16,6 +16,10 @@
    <li> Comunicação Efetiva</li>
    <li> Inteligência Emocional</li>
    <li> Pensamento Crítico</li>
+   <li> Gestão de Tempo</li>
+   <li> Trabalho em Equipe</li>
+   <li> Networking</li>
+   <li> Feedback</li>
    
 </ul>
 
