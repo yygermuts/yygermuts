@@ -9,14 +9,11 @@
 </ul>
 
 <div>
-   <h2>DevLinks</h2>
+   <h2>Projeto DevLinks</h2>
    <a target="_blank" href = "https://yygermuts.github.io/dev-links/"> Clique Aqui!</a>
    <h2>Jogos</h2>
-   <h3>Super Mario Jump</h3>
-   <a target="_blank" href = "https://yygermuts.github.io/super-mario-jump/"> Clique Aqui!</a>
-   <br>
-   <h3>Pedra, Papel e Tesoura</h3>
-   <a target="_blank" href = "https://yygermuts.github.io/pedra-papel-tesoura/"> Cliqeu Aqui!</a>
+   <h3><a target="_blank" href = "https://yygermuts.github.io/super-mario-jump/"> Super Mario Jump!</a></h3>
+   <h3><a target="_blank" href = "https://yygermuts.github.io/pedra-papel-tesoura/">Pedra, Papel e Tesoura</a></h3>
 </div>
 
 
