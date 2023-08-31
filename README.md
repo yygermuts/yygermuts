@@ -13,7 +13,7 @@
    <a href = "https://yygermuts.github.io/super-mario-jump/" target="_blank"> Clique Aqui!</a>
    <br>
    <h3>Pedra, Papel e Tesoura</h3>
-   <a href = "yygermuts.github.io/pedra-papel-tesoura" target="_blank"> Cliqeu Aqui!</a>
+   <a href = "https://yygermuts.github.io/pedra-papel-tesoura/" target="_blank"> Cliqeu Aqui!</a>
 </div>
 
 
