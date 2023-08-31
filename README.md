@@ -10,7 +10,7 @@
 
 <div>
    <h2>DevLinks</h2>
-   <a href = "https://yygermuts.github.io/super-mario-jump/" target="_blank"> Clique Aqui!</a>
+   <a href = "https://yygermuts.github.io/dev-links/" target="_blank"> Clique Aqui!</a>
    <h2>Jogos</h2>
    <h3>Super Mario Jump</h3>
    <a href = "https://yygermuts.github.io/super-mario-jump/" target="_blank"> Clique Aqui!</a>
