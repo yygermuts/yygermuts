@@ -8,7 +8,7 @@
 <ul>
    <li> Desenvolvimento Front-End e Design de Games</li>
    <li> HTML5 - CSS3 - Javascript</li>
-   <li> Devorador de conhecimentos</li>
+   
    
 </ul>
    <h2>Soft Skills</h2>
