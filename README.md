@@ -10,13 +10,13 @@
 
 <div>
    <h2>DevLinks</h2>
-   <a href = "https://yygermuts.github.io/dev-links/" target="_blank"> Clique Aqui!</a>
+   <a target="_blank" href = "https://yygermuts.github.io/dev-links/"> Clique Aqui!</a>
    <h2>Jogos</h2>
    <h3>Super Mario Jump</h3>
-   <a href = "https://yygermuts.github.io/super-mario-jump/" target="_blank"> Clique Aqui!</a>
+   <a target="_blank" href = "https://yygermuts.github.io/super-mario-jump/"> Clique Aqui!</a>
    <br>
    <h3>Pedra, Papel e Tesoura</h3>
-   <a href = "https://yygermuts.github.io/pedra-papel-tesoura/" target="_blank"> Cliqeu Aqui!</a>
+   <a target="_blank" href = "https://yygermuts.github.io/pedra-papel-tesoura/"> Cliqeu Aqui!</a>
 </div>
 
 
