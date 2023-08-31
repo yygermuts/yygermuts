@@ -1,7 +1,7 @@
 <html>
    
    <body>
-<h1>Olá! Eu sou o Yuri Germuts! Mas pode me chamar de Yuri Geek</h1>
+<h1>Olá! Eu sou o Yuri!</h1>
 
 <ul>
    <li> Estudando Desenvolvimento Front-End e Design de Games</li>
