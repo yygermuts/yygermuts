@@ -3,9 +3,20 @@
    <body>
 <h1>Olá! Eu sou o Yuri!</h1>
 
+
+   <h2>Hard Skills</h2>
 <ul>
-   <li> Estudando Desenvolvimento Front-End e Design de Games</li>
-   <li> Em busca de estágio</li>
+   <li> Desenvolvimento Front-End e Design de Games</li>
+   <li> HTML5 - CSS3 - Javascript</li>
+   <li> Devorador de conhecimentos</li>
+   
+</ul>
+   <h2>Soft Skills</h2>
+   <ul>
+   <li> Comunicação Efetiva</li>
+   <li> Inteligência Emocional</li>
+   <li> Pensamento Crítico</li>
+   
 </ul>
 
 <div>
