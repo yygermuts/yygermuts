@@ -10,7 +10,7 @@
 
 <div>
    <h2>Projeto - DevLinks</h2>
-  <h3><a target="_blank" href = "https://yygermuts.github.io/dev-links/">Contato</a></h3>
+  <h3><a target="_blank" href = "https://yygermuts.github.io/dev-links/">DevLinks</a></h3>
    <h2>Projeto - Jogos</h2>
    <h3><a target="_blank" href = "https://yygermuts.github.io/super-mario-jump/"> Super Mario Jump!</a></h3>
    <h3><a target="_blank" href = "https://yygermuts.github.io/pedra-papel-tesoura/">Pedra, Papel e Tesoura</a></h3>
