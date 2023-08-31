@@ -8,7 +8,14 @@
    <li> Em busca de estágio</li>
 </ul>
 
-##
+<div>
+   <h3>Super Mario Jump</h3>
+   <a href = "yygermuts.github.io/super-mario-jump" target="_blank"> Clique Aqui!</a>
+   <br>
+   <h3>Pedra, Papel e Tesoura</h3>
+   <a href = "yygermuts.github.io/pedra-papel-tesoura" target="_blank"> Cliqeu Aqui!</a>
+</div>
+
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
