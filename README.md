@@ -8,6 +8,7 @@
 <ul>
    <li> Desenvolvimento Front-End e Design de Games</li>
    <li> HTML5 - CSS3 - Javascript</li>
+   <li> Game Design - Graduação - Maio/2025</li>
    
    
 </ul>
