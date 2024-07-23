@@ -26,7 +26,7 @@
 
 <div>
    <h2>Projeto - Front End</h2>
-   <h3><a target="_blank" href = "https://yygermuts.github.io/dev-links/">DevLinks</a></h3>
+   <h3><a target="_blank" href ="https://yygermuts.github.io/ProjetoFrontEnd1">Front End Page</a></h3>
    <h2>Projeto - DevLinks</h2>
   <h3><a target="_blank" href = "https://yygermuts.github.io/dev-links/">DevLinks</a></h3>
    <h2>Projeto - Jogos</h2>
