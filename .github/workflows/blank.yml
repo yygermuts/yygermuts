@@ -1,0 +1,58 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+    
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |     
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create dark theme CSS
+        run: |
+          echo ".background { background-color: #181818; } .snake { fill: #009900; }" > dark-theme.css
+
+      - name: Inject dark theme CSS into SVG
+        run: |
+          sed -i 's|</svg>|<style type="text/css">|' dist/github-contribution-grid-snake.svg
+          cat dark-theme.css >> dist/github-contribution-grid-snake.svg
+          echo "</style></svg>" >> dist/github-contribution-grid-snake.svg
+          sed -i 's|</style></style></svg>|</style></svg>|' dist/github-contribution-grid-snake.svg
+
+      - name: Show build status
+        run: git status
+
+      - name: Configure git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Push new files to the output branch
+        uses: actions/checkout@v3
+        with:
+          ref: output
+        run: |
+          git checkout -b output
+          git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animations"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
