@@ -49,7 +49,7 @@
    <h3><a target="_blank" href = "https://yygermuts.github.io/pedra-papel-tesoura/">Pedra, Papel e Tesoura</a></h3>
 </div>
 
-![snake gif](https://github.com/yygermuts/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ##
