@@ -1,9 +1,10 @@
-<html>
-   
-   <body>
+
+
+
+
 <h2>Hello! I am Yuri</h2>
 <p>Let's change the world through technology and programming</p>
-![snake gif](https://github.com/yygermuts/yygermuts/blob/output/github-contribution-grid-snake.gif)
+
 <h2>Hard Skills</h2>
 
 <div style="display: inline_block">
@@ -20,6 +21,11 @@
 </a>
 
 </div>
+
+<br>
+
+   ![snake gif](https://github.com/yygermuts/yygermuts/blob/output/github-contribution-grid-snake.gif)
+   
    <br>
 <ul>
    <li> Front End Development - Game Design Student</li>
@@ -62,5 +68,4 @@
    
 </div>
 
-</body>
-    </html>
+
