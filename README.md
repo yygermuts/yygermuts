@@ -3,7 +3,7 @@
    <body>
 <h2>Hello! I am Yuri</h2>
 <p>Let's change the world through technology and programming</p>
-
+![snake gif](https://github.com/yygermuts/yygermuts/blob/output/github-contribution-grid-snake.gif)
 <h2>Hard Skills</h2>
 
 <div style="display: inline_block">
@@ -18,7 +18,7 @@
 <a href="https://github.com/yygermuts/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yygermuts&layout=compact&langs_count=8&card_width=320&&theme=dark" />
 </a>
-![snake gif](https://github.com/yygermuts/yygermuts/blob/output/github-contribution-grid-snake.gif)
+
 </div>
    <br>
 <ul>
