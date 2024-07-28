@@ -21,12 +21,6 @@
 </a>
 
 </div>
-
-<br>
-
-   ![snake gif](https://github.com/yygermuts/yygermuts/blob/output/github-contribution-grid-snake.gif)
-   
-   <br>
 <ul>
    <li> Front End Development - Game Design Student</li>
    <li> HTML5 - CSS3 - Javascript - Vue.Js</li>
