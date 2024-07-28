@@ -1,7 +1,6 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 # ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
-
 name: Generate Snake
 
 on:
@@ -36,9 +35,14 @@ jobs:
 
       - name: Inject dark theme CSS into SVG
         run: |
+          # Adiciona o início da tag <style>
           sed -i 's|</svg>|<style type="text/css">|' dist/github-contribution-grid-snake.svg
+          # Adiciona o conteúdo do arquivo dark-theme.css
           cat dark-theme.css >> dist/github-contribution-grid-snake.svg
+          # Adiciona o fechamento das tags <style> e </svg>
           echo "</style></svg>" >> dist/github-contribution-grid-snake.svg
+          # Corrige o fechamento das tags
+          sed -i 's|</style></style></svg>|</style></svg>|' dist/github-contribution-grid-snake.svg
 
       - name: Show build status
         run: git status
