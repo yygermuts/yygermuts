@@ -4,6 +4,9 @@
 <h2>Hello! I am Yuri</h2>
 <p>Let's change the world through technology and programming</p>
 
+![snake gif](https://github.com/yygermuts/yygermuts/blob/output/github-contribution-grid-snake.gif)
+
+
 
    <h2>Hard Skills</h2>
 
