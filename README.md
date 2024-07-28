@@ -1,10 +1,19 @@
 <html>
    
    <body>
-<h1>Olá! Eu sou o Yuri!</h1>
+<h2>Hello! I am Yuri</h2>
+<p>Let's change the world through technology and programming</p>
 
 
    <h2>Hard Skills</h2>
+
+<div style="display: inline_block">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+   <br>
 <ul>
    <li> Front End Development - Game Design Student</li>
    <li> HTML5 - CSS3 - Javascript - Vue.Js</li>
@@ -24,22 +33,17 @@
 </ul>
 
 <div>
-   <h2>Projeto - Front End</h2>
+   <h2>Project - Front End</h2>
    <h3><a target="_blank" href = "https://yygermuts.github.io/FrontEndProject1/">Front End</a></h3> 
-   <h2>Projeto - DevLinks</h2>
+   <h2>Project - DevLinks</h2>
   <h3><a target="_blank" href = "https://yygermuts.github.io/dev-links/">DevLinks</a></h3>
-   <h2>Projeto - Jogos</h2>
+   <h2>Project - Game</h2>
    <h3><a target="_blank" href = "https://yygermuts.github.io/super-mario-jump/"> Super Mario Jump!</a></h3>
    <h3><a target="_blank" href = "https://yygermuts.github.io/pedra-papel-tesoura/">Pedra, Papel e Tesoura</a></h3>
 </div>
 
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+
 
 ##
 
