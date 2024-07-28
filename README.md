@@ -6,9 +6,9 @@
 
    <h2>Hard Skills</h2>
 <ul>
-   <li> Desenvolvimento Front-End e Design de Games</li>
-   <li> HTML5 - CSS3 - Javascript</li>
-   <li> Game Design - Graduação - Maio/2025</li>
+   <li> Front End Development - Game Design Student</li>
+   <li> HTML5 - CSS3 - Javascript - Vue.Js</li>
+   <li> Game Design - Graduation - Maio/2025</li>
    
    
 </ul>
