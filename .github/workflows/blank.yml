@@ -45,12 +45,13 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Push new files to the output branch
+      - name: Checkout output branch
         uses: actions/checkout@v3
         with:
           ref: output
+
+      - name: Commit and push changes
         run: |
-          git checkout -b output
           git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
           git commit -m "Update snake animations"
           git push origin output --force
