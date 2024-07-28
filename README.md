@@ -21,6 +21,7 @@
 </a>
 
 </div>
+<br>
 <ul>
    <li> Front End Development - Game Design Student</li>
    <li> HTML5 - CSS3 - Javascript - Vue.Js</li>
