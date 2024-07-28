@@ -14,14 +14,13 @@
 </ul>
    <h2>Soft Skills</h2>
    <ul>
-   <li> Comunicação Efetiva</li>
-   <li> Inteligência Emocional</li>
-   <li> Pensamento Crítico</li>
-   <li> Gestão de Tempo</li>
-   <li> Trabalho em Equipe</li>
-   <li> Networking</li>
-   <li> Feedback</li>
-   
+   <li>Effective Communication</li>
+   <li>Emotional Intelligence</li>
+   <li>Critical Thinking</li>
+   <li>Time Management</li>
+   <li>Teamwork</li>
+   <li>Networking</li>
+   <li>Feedback</li>
 </ul>
 
 <div>
