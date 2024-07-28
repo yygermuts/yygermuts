@@ -30,10 +30,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Apply dark theme CSS
+      - name: Create dark theme CSS
         run: |
           echo ".background { background-color: #181818; } .snake { fill: #009900; }" > dark-theme.css
-          sed -i 's|</svg>|<style type="text/css">|g' dist/github-contribution-grid-snake.svg
+
+      - name: Inject dark theme CSS into SVG
+        run: |
+          sed -i 's|</svg>|<style type="text/css">|' dist/github-contribution-grid-snake.svg
           cat dark-theme.css >> dist/github-contribution-grid-snake.svg
           echo "</style></svg>" >> dist/github-contribution-grid-snake.svg
 
