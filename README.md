@@ -24,7 +24,7 @@
 <br>
 <ul>
    <li> Front End Development - Game Design Student</li>
-   <li> HTML5 - CSS3 - Javascript - Vue.Js</li>
+   <li> HTML5 - CSS3 - Javascript</li>
    <li> Game Design - Graduation - Maio/2025</li>
    
    
