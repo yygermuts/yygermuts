@@ -23,9 +23,10 @@
 </div>
 <br>
 <ul>
-   <li> Front End Development - Game Design Student</li>
-   <li> HTML5 - CSS3 - Javascript</li>
-   <li> Game Design - Graduation - Maio/2025</li>
+   <li>Bachelor's degree in Game Design</li>
+   <li>Bachelor's in Systems Analysis and Development (currently pursuing)</li>
+   <li>HTML5 - CSS3 - Javascript - Python - ETL - Data Analytics - BI</li>
+   
    
    
 </ul>
