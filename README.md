@@ -4,7 +4,7 @@
 
 <h2>Hello! I am Yuri</h2>
 <p>Let's change the world through technology and programming</p>
-<hr>
+<br>
 <h3><a target="_blank" href = "https://yygermuts.github.io/new_dev_links/">Click Here to Know Me!</a></h3>
 
 <h2>Hard Skills</h2>
