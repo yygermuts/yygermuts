@@ -16,25 +16,13 @@
     <img align="center" alt="Pandas Framework" height="40" width="40" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000">
 </div>
 <br>
-<div style="display: inline-block; text-align: center; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
-  <a href="https://github.com/yygermuts/convoychat" target="_blank" style="display: block;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=yygermuts&layout=compact&langs_count=8&card_width=320&&theme=dark" 
-      height="200" 
-      alt="Top Languages" 
-      style="border-radius: 8px; transition: transform 0.3s ease;">
-  </a>
+<div style="display: inline_block">
+
+<a href="https://github.com/yygermuts/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yygermuts&layout=compact&langs_count=8&card_width=320&&theme=dark" />
+</a>
+
 </div>
-
-<style>
-  div:hover {
-    transform: scale(1.05);
-  }
-
-  img:hover {
-    transform: scale(1.05);
-  }
-</style>
 
 <br>
 <ul>
