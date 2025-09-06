@@ -33,8 +33,8 @@
 <br>
 <ul>
    <li>Bachelor's degree in Game Design</li>
-   <li>Bachelor's in Systems Analysis and Development (currently pursuing)</li>
-   <li>HTML5 | CSS3 | Javascript | Python | ETL | Data Analytics | BI | Google Cloud | Google Certifications | Power BI | Google Looker</li>
+   <li>Postgraduate Student in Software Engineering</li>
+   <li>HTML5 | CSS3 | Javascript | Typescript | React | Azure DevOps</li>
    
    
    
