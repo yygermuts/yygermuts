@@ -45,8 +45,8 @@
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">
-  <a href="https://yygermuts.github.io/super-mario-jump/" target="_blank">🍄 Super Mario Jump!</a><br>
-  <a href="https://yygermuts.github.io/pedra-papel-tesoura/" target="_blank">✊ Rock, Paper, Scissors</a>
+  <a href="https://yygermuts.github.io/super-mario-jump/" target="_blank">Super Mario Jump!</a><br>
+  <a href="https://yygermuts.github.io/pedra-papel-tesoura/" target="_blank">Rock, Paper, Scissors</a>
 </p>
 
 
