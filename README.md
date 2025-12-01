@@ -16,7 +16,6 @@
   <a href="https://yygermuts.github.io/new_dev_links/" target="_blank">Learn more about me →</a>
 </p>
 
----
 
 <h2 align="center">Tech Stack</h2>
 
@@ -30,9 +29,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yygermuts&theme=github_dark" />
@@ -47,7 +44,7 @@
   <img src="https://streak-stats.demolab.com?user=yygermuts&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
----
+
 
 <h2 align="center">🎓 Education</h2>
 
@@ -56,7 +53,7 @@
   💻 Postgraduate Student in Software Engineering
 </p>
 
----
+
 
 <h2 align="center">🎮 Featured Projects</h2>
 
@@ -65,7 +62,7 @@
   <a href="https://yygermuts.github.io/pedra-papel-tesoura/" target="_blank">Rock, Paper, Scissors</a>
 </p>
 
----
+
 
 <h2 align="center">Let's Connect</h2>
 
