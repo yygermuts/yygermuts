@@ -13,11 +13,6 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Python" height="40" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
-    <img align="center" alt="Pandas Framework" height="40" width="40" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000">
-    <img align="center" alt="NumPy Framework" height="40" width="40" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000">
-    <img align="center" alt="Google Looker" height="40" width="40" src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000">
-    <img align="center" alt="Power BI" height="40" width="40" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000">
-    <img align="center" alt="Google Cloud" height="40" width="40" src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000">
 </div>
 
 <br>
