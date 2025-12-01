@@ -38,13 +38,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yygermuts&theme=github_dark" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yygermuts&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
-
-
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">Education</h2>
 
 <p align="center">
   🎮 Bachelor's Degree in Game Design<br>
