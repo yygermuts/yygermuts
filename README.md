@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <a href="https://yygermuts.github.io/new_dev_links/" target="_blank">Learn more about me →</a>
+  <a href="https://yygermuts.github.io/new_dev_links/" target="_blank">Learn more about me</a>
 </p>
 
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br>
+
 
 <h2 align="center">Tech Stack</h2>
 
@@ -28,11 +28,11 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,git,github,vscode,linux&theme=dark" />
 </p>
 
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br>
+
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -45,11 +45,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yygermuts&theme=synthwave" />
 </div>
 
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br>
+
 
 <h2 align="center">Education</h2>
 
@@ -58,11 +58,11 @@
   Postgraduate Student in Software Engineering
 </p>
 
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br>
+
 
 <h2 align="center">Featured Projects</h2>
 
@@ -76,11 +76,11 @@
   </a>
 </p>
 
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br>
+
 
 <h2 align="center">Let's Connect</h2>
 
