@@ -10,8 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=yygermuts&color=blue&style=for-the-badge" />
 </p>
 
-<p align="center">Currently focused on deepening knowledge in <strong>JavaScript/TypeScript, React/Next.js, and Front-End Architecture</strong></p>
-
 <p align="center">
   <a href="https://yygermuts.github.io/new_dev_links/" target="_blank">Learn more about me →</a>
 </p>
