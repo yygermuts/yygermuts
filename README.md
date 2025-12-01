@@ -1,32 +1,45 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=I'M+YURI+GERMUTS" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=YURI%20GERMUTS&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Front-End+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=FRONT-END+DEVELOPER;ALWAYS+LEARNING+NEW+THINGS;LET'S+BUILD+SOMETHING+AMAZING" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Front--End-FF00FF?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Lives-Brazil-00FFFF?style=for-the-badge&labelColor=000000" />
-  <img src="https://komarev.com/ghpvc/?username=yygermuts&color=FF00FF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-FRONT--END-FF00FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LOCATION-BRAZIL-00FFFF?style=for-the-badge&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=yygermuts&color=FF00FF&style=for-the-badge&label=VISITORS" />
 </p>
 
 <p align="center">
-  <a href="https://yygermuts.github.io/new_dev_links/" target="_blank">Learn more about me →</a>
+  <a href="https://yygermuts.github.io/new_dev_links/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VIEW%20MORE-00FFFF?style=for-the-badge&labelColor=000000&logo=github&logoColor=00FFFF" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/TECH_STACK-FF00FF?style=for-the-badge&labelColor=000000" />
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,git,github,vscode,linux&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-00FFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000&labelColor=000000" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/GITHUB_STATS-00FFFF?style=for-the-badge&labelColor=000000" />
+</h2>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yygermuts&theme=synthwave" />
@@ -37,36 +50,59 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yygermuts&theme=synthwave" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yygermuts&theme=synthwave-84&hide_border=true&bg_color=1a1b27&color=FF00FF&line=00FFFF&point=FF00FF" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">Education</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/EDUCATION-FF00FF?style=for-the-badge&labelColor=000000" />
+</h2>
 
 <p align="center">
-  Bachelor's Degree in Game Design<br>
-  Postgraduate Student in Software Engineering
+  <img src="https://img.shields.io/badge/GAME_DESIGN-BACHELOR'S_DEGREE-00FFFF?style=for-the-badge&labelColor=000000" /><br>
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-POSTGRADUATE-FF00FF?style=for-the-badge&labelColor=000000" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/FEATURED_PROJECTS-00FFFF?style=for-the-badge&labelColor=000000" />
+</h2>
 
 <p align="center">
-  <a href="https://yygermuts.github.io/super-mario-jump/" target="_blank">Super Mario Jump!</a><br>
-  <a href="https://yygermuts.github.io/pedra-papel-tesoura/" target="_blank">Rock, Paper, Scissors</a>
+  <a href="https://yygermuts.github.io/super-mario-jump/" target="_blank">
+    <img src="https://img.shields.io/badge/SUPER_MARIO_JUMP-PLAY_NOW-FF00FF?style=for-the-badge&labelColor=000000&logo=github&logoColor=FF00FF" />
+  </a>
+  <br><br>
+  <a href="https://yygermuts.github.io/pedra-papel-tesoura/" target="_blank">
+    <img src="https://img.shields.io/badge/ROCK_PAPER_SCISSORS-PLAY_NOW-00FFFF?style=for-the-badge&labelColor=000000&logo=github&logoColor=00FFFF" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">Let's Connect</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-FF00FF?style=for-the-badge&labelColor=000000" />
+</h2>
 
 <p align="center">
-  <a href="mailto:yygermuts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-germuts-souza-368744b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" target="_blank"></a>
-  <a href="https://wa.me/5519982840728?text=Hello!%20Welcome.%20Send%20me%20your%20message%20and%20I%20will%20get%20back%20to%20you%20soon."><img src="https://img.shields.io/badge/WhatsApp-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=000000" target="_blank"></a>
+  <a href="mailto:yygermuts@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/yuri-germuts-souza-368744b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" />
+  </a>
+  <a href="https://wa.me/5519982840728?text=Hello!%20Welcome.%20Send%20me%20your%20message%20and%20I%20will%20get%20back%20to%20you%20soon.">
+    <img src="https://img.shields.io/badge/WHATSAPP-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=000000" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yygermuts&color=FF00FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yygermuts&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
+</div>
