@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=YURI%20GERMUTS&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Yuri+Germuts" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=FRONT-END+DEVELOPER;ALWAYS+LEARNING+NEW+THINGS;LET'S+BUILD+SOMETHING+AMAZING" alt="Typing SVG" />
