@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yuri+Germuts+%F0%9F%91%8B;Front-End+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there! I'm Yuri Germuts</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Front-End+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Front--End-blue?style=for-the-badge" />
@@ -8,9 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=yygermuts&color=blue&style=for-the-badge" />
 </p>
 
-<p align="center">Front-End Developer 🚀</p>
-
-<p align="center">🎯 Currently focused on deepening knowledge in <strong>JavaScript/TypeScript, React/Next.js, and Front-End Architecture</strong></p>
+<p align="center">Currently focused on deepening knowledge in <strong>JavaScript/TypeScript, React/Next.js, and Front-End Architecture</strong></p>
 
 <p align="center">
   <a href="https://yygermuts.github.io/new_dev_links/" target="_blank">Learn more about me →</a>
@@ -18,33 +18,30 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yygermuts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yygermuts&layout=compact&langs_count=8&theme=dark"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yygermuts&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Yuri Germuts github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yygermuts&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yygermuts&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yygermuts&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yygermuts&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -57,37 +54,16 @@
 
 ---
 
-<h2 align="center">🚀 What I'm doing now</h2>
-
-<p align="center">
-  📚 Deepening knowledge in front-end software architecture<br>
-  🔨 Building personal projects from scratch to production<br>
-  🧪 Practicing testing with Jest<br>
-  🤝 Sharing knowledge through KTs and mentoring
-</p>
-
----
-
 <h2 align="center">🎮 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://yygermuts.github.io/super-mario-jump/" target="_blank">🍄 Super Mario Jump!</a><br>
-  <a href="https://yygermuts.github.io/pedra-papel-tesoura/" target="_blank">✊ Rock, Paper, Scissors</a>
+  <a href="https://yygermuts.github.io/super-mario-jump/" target="_blank">Super Mario Jump!</a><br>
+  <a href="https://yygermuts.github.io/pedra-papel-tesoura/" target="_blank">Rock, Paper, Scissors</a>
 </p>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yygermuts/yygermuts/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yygermuts/yygermuts/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yygermuts/yygermuts/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
   <a href="mailto:yygermuts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -96,5 +72,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yygermuts&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yygermuts&color=58A6FF&style=flat-square" alt="Profile views" />
 </p>
