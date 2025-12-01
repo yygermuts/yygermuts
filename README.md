@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=HI+THERE!+I'M+YURI+GERMUTS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=I'M+YURI+GERMUTS" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,git,github,vscode,linux&theme=dark" />
@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yygermuts&theme=synthwave" />
@@ -39,7 +39,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">Education</h2>
 
 <p align="center">
   Bachelor's Degree in Game Design<br>
@@ -48,7 +48,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">🎮 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <p align="center">
   <a href="https://yygermuts.github.io/super-mario-jump/" target="_blank">Super Mario Jump!</a><br>
@@ -57,7 +57,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
   <a href="mailto:yygermuts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" target="_blank"></a>
