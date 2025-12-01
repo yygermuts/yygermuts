@@ -46,9 +46,7 @@
 </ul>
 
 <div>
-   <h2>Project - Front End</h2>
-   <h3><a target="_blank" href = "https://yygermuts.github.io/FrontEndProject1/">Front End</a></h3> 
-   <h2>Project - Game</h2>
+   <h2>Game Projects</h2>
    <h3><a target="_blank" href = "https://yygermuts.github.io/super-mario-jump/"> Super Mario Jump!</a></h3>
    <h3><a target="_blank" href = "https://yygermuts.github.io/pedra-papel-tesoura/">Pedra, Papel e Tesoura</a></h3>
 </div>
