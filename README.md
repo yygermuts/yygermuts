@@ -56,11 +56,11 @@
 <h2 align="center">Education</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Graduated-in-Game_Design-FF00FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Game_Design-Graduated-FF00FF?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Postgraduate_Student-Software_Engineering-00FFFF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Software_Engineering-Postgraduate_Student-00FFFF?style=for-the-badge&labelColor=000000" />
 </p>
 
 <br>
