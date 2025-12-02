@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="mailto:yygermuts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-germuts-souza-368744b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yuri-germuts/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" target="_blank"></a>
   <a href="https://wa.me/5519982840728?text=Hello!%20Welcome.%20Send%20me%20your%20message%20and%20I%20will%20get%20back%20to%20you%20soon."><img src="https://img.shields.io/badge/WhatsApp-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=000000" target="_blank"></a>
 </p>
 
